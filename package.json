@@ -1,0 +1,23 @@
+{
+  "name": "uncaughtException",
+  "version": "1.0.0",
+  "description": "uncaughtException handle in mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hustxiaoc/uncaughtException.git"
+  },
+  "author": "taojie.hjp@taobao.com",
+  "dependencies": {
+
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hustxiaoc/uncaughtException/issues"
+  },
+  "homepage": "https://github.com/hustxiaoc/uncaughtException",
+  "readmeFilename": "README.md"
+}
