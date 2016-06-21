@@ -6,6 +6,6 @@ it('should throw error xxx throws error', done => {
       assert(err.message === 'xxx');
       done();
     });
-    xxx();
+    xxx(); // will throw en uncaughtException
 });
 ```
